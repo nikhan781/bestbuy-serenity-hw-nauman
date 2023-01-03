@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CURD test","This will get all stores details","SUCCESS","2023-01-03T20:31:23.848Z[Europe/London]","0.0","2.06"
+"Store CURD test","This method will create new store details","SUCCESS","2023-01-03T20:31:25.939Z[Europe/London]","0.0","0.91"
+"Store CURD test","This will get single store details","SUCCESS","2023-01-03T20:31:26.851Z[Europe/London]","0.0","0.03"
+"Store CURD test","This will update single store details","SUCCESS","2023-01-03T20:31:26.886Z[Europe/London]","0.0","0.04"
+"Store CURD test","This will delete single store details","SUCCESS","2023-01-03T20:31:26.922Z[Europe/London]","0.0","0.03"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="4530" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:27 GMT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="4530" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:27 GMT">
+      <class name="com.bestbuy.bestbuycurdtest.StoreCURDTest">
+        <test-method status="PASS" signature="test001()" name="test001" duration-ms="2354" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:25 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method status="PASS" signature="test004()" name="test004" duration-ms="3364" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test004 -->
+        <test-method status="PASS" signature="test002()" name="test002" duration-ms="3292" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test002 -->
+        <test-method status="PASS" signature="test005()" name="test005" duration-ms="3399" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test005 -->
+        <test-method status="PASS" signature="test003()" name="test003" duration-ms="3328" started-at="2023-01-03T20:31:23 GMT" finished-at="2023-01-03T20:31:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test003 -->
+      </class> <!-- com.bestbuy.bestbuycurdtest.StoreCURDTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
